@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js & Node.js**
 
-- 👨‍💻 All of my projects are available at [https://mkaleemdev.github.io/portfolio/](https://mkaleemdev.github.io/portfolio/)
+- 👨‍💻  my Portfolio are available at [https://mkaleemdev.github.io/portfolio/](https://mkaleemdev.github.io/portfolio/)
 
 - 💬 Ask me about **react.js**
 
